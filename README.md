@@ -1,4 +1,4 @@
-# cgi-23-24
+# projcgi
 
-
-Source code for CGI 2023/24
+Includes 3 projects:
+proj1, proj2, proj3.

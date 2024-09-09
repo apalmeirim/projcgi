@@ -1,5 +1,4 @@
-# projcgi
-Projects CGI (Computer-Generated Imagery)  
+# cgi-23-24
 
-Includes 3 different projects:
-proj1, proj2, proj3.
+
+Source code for CGI 2023/24

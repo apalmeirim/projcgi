@@ -1,0 +1,24 @@
+HTML, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    border: 0;
+    overflow: hidden; /*  Disable scrollbars */
+    display: block;  /* No floating content on sides */
+}
+#scale{
+    position: relative;
+    margin-top: 10px;
+    margin-left: 20px;
+    color: white;
+}
+#offset{
+    position: relative;
+    margin-left: 20px;
+    color: white;
+}
+#iterations{
+    position: relative;
+    margin-left: 20px;
+    color: white;
+}
